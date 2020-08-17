@@ -34,7 +34,7 @@ You can find some of my projects below!
 <h4><a id="discord"></a><b>My Discord username:</b></h4>
 Pain#7884
 
-<i>Statistics shown below:</i>
+### <i>Statistics shown below:</i>
 
 [![Stratis' github stats](https://github-readme-stats.vercel.app/api?username=Stratis-Dermanoutsos&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
