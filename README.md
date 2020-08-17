@@ -16,12 +16,12 @@
 <br />
 
 ### Languages and Tools:
-[<img align="left" alt="Csharp" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.5.0/icons/csharp.svg" />][]
-[<img align="left" alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.5.0/icons/visualstudiocode.svg" />][]
-[<img align="left" alt="Visual Studio" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.5.0/icons/visualstudio.svg" />][]
-[<img align="left" alt="Unity" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.5.0/icons/unity.svg" />][]
-[<img align="left" alt="Python" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.5.0/icons/python.svg" />][]
-[<img align="left" alt="GitHub" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.5.0/icons/github.svg" />][]
+<img align="left" alt="Csharp" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.5.0/icons/csharp.svg" />
+<img align="left" alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.5.0/icons/visualstudiocode.svg" />
+<img align="left" alt="Visual Studio" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.5.0/icons/visualstudio.svg" />
+<img align="left" alt="Unity" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.5.0/icons/unity.svg" />
+<img align="left" alt="Python" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.5.0/icons/python.svg" />
+<img align="left" alt="GitHub" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.5.0/icons/github.svg" />
 
 
 <br />
