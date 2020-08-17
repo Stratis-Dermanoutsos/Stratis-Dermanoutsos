@@ -13,12 +13,14 @@
 [<img align="left" alt="Stratis-Dermanoutsos | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="Stratis-Dermanoutsos | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
+<br />
+<br />
 Welcome to my personal <b>GitHub</b> page! In this page I upload some of my projects that I like, in order to keep track of my work throughout the years!
 I upload a lot of different stuff, like <b>programs and programming projects 💻, Unity games 🚩 and projects associated with hardware 🔌</b>
 
 You can find some of my projects below!
 
-<h5><a id="discord"></a><b>My Discord username:</b></h5>
+<h4><a id="discord"></a><b>My Discord username:</b></h4>
 Pain#7884
 
 <i>Statistics shown below:</i>
