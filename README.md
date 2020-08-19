@@ -5,7 +5,7 @@
 - 🔭 I’m currently working on a mobile space invaders-ish game but with cute pets, <b>Pet Invaders</b>.
 - 🌱 I’m learning <b>Unity</b>  to create my own small universes.
 - 💬 Ask me about <b>anything</b> you can think of. I might know, might not. Still we can search for an answer!
-- <b>Collaborations</b> and <b>team projects</b> are always welcome!
+- ⚔ <b>Collaborations</b> and <b>team projects</b> are always welcome!
 
 ### Contact me at:
 [<img align="left" alt="Stratis-Dermanoutsos | StackOverflow" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.5.0/icons/stackoverflow.svg" />][stackoverflow]
