@@ -28,7 +28,7 @@
 <br />
 Welcome to my personal <b>GitHub</b> page!
 
-I upload a lot of different stuff, like <b>Data Structures</b>, <b>Algorithms</b>, <b>Programming projects</b> 💻 and <b>Unity games</b> 🚩.
+I upload a lot of different stuff, like <b>Data Structures</b> 🎁, <b>Algorithms</b> ✍, <b>Programming projects</b> 💻 and <b>Unity games</b> 🚩.
 
 You can find some of my projects below!
 
