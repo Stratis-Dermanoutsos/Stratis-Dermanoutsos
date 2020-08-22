@@ -10,6 +10,7 @@
 ### Contact me at:
 [<img align="left" alt="Stratis-Dermanoutsos | StackOverflow" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.5.0/icons/stackoverflow.svg" />][stackoverflow]
 [<img align="left" alt="Stratis-Dermanoutsos | Gmail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.5.0/icons/gmail.svg" />][gmail]
+[<img align="left" alt="Stratis-Dermanoutsos | itch" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.5.0/icons/itch-dot-io.svg" />][itch]
 [<img align="left" alt="Stratis-Dermanoutsos | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="Stratis-Dermanoutsos | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
@@ -45,5 +46,6 @@ Pain#7884
 
 [stackoverflow]: https://stackoverflow.com/users/13187980/stratis-dermanoutsos
 [gmail]: mailto:stratis.dermanoutsos@gmail.com
+[itch]: https://infinite-pain.itch.io
 [twitter]: https://twitter.com/Infinite___Pain
 [instagram]: https://www.instagram.com/stratis_derm
