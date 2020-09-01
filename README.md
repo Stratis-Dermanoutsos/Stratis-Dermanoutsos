@@ -24,25 +24,28 @@
 <img align="left" alt="Python" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.5.0/icons/python.svg" />
 <img align="left" alt="GitHub" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.5.0/icons/github.svg" />
 
+<br />
+<br />
 
-<br />
-<br />
 Welcome to my personal <b>GitHub</b> page!
 
 I upload a lot of different stuff, like <b>Data Structures</b> 🎁, <b>Algorithms</b> ✍, <b>Programming projects</b> 💻 and <b>Unity games</b> 🚩.
 
 You can find some of my projects below!
 
-<h4><b>My Discord username:</b></h4>
+<h5><b>My Discord username:</b></h5>
 Pain#7884
 
-### <i>Statistics shown below:</i>
+<br />
+<br />
 
-[![Stratis' github stats](https://github-readme-stats.vercel.app/api?username=Stratis-Dermanoutsos&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+<details>
+<summary> <i><b>GitHub Stats:</b></i></summary>
 
+<img align="left" alt = "Stratis-Dermanoutsos's GitHub Stats" src="https://github-readme-stats.stratis-dermanoutsos.vercel.app/api?username=Stratis-Dermanoutsos&show_icons=true&theme=dark&hide_border=true" /> 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Stratis-Dermanoutsos&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
-
+<img align="" alt = "Stratis-Dermanoutsos's Top Languages" src="https://github-readme-stats.stratis-dermanoutsos.vercel.app/api/top-langs/?username=Stratis-Dermanoutsos&layout=compact&theme=dark&hide_border=true" />
+</details>
 
 [stackoverflow]: https://stackoverflow.com/users/13187980/stratis-dermanoutsos
 [gmail]: mailto:stratis.dermanoutsos@gmail.com
