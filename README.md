@@ -34,9 +34,6 @@ I upload a lot of different stuff, like <b>Data Structures</b> 🎁, <b>Algorith
 
 You can find some of my projects below!
 
-<h5><b>My Discord username:</b></h5>
-Pain#7884
-
 <br />
 <br />
 
