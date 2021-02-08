@@ -1,10 +1,10 @@
 # Welcome to my GitHub page!
 
-- 🎓 Currently studying <b>Computer Science at University of Piraeus, Greece</b>
-- 🚩 <b>Goal</b>: Have a peaceful life, making games!
-- 🔭 I’m currently working on a mobile space invaders-ish game but with cute pets, <b>Pet Invaders</b>.
-- 🌱 I’m learning <b>Unity</b>  to create my own small universes.
-- 💬 Ask me about <b>anything</b> you can think of. I might know, might not. Still we can search for an answer!
+- 🎓 Currently studying <b>Computer Science</b> at the <b>University of Piraeus, Greece</b>
+- 🚩 <b>Goal</b>: Have a peaceful life, making games and programs!
+- 🔭 I’m currently working on many different projects, exploring the capabilities of <b>C#</b>.
+- 🌱 I’m learning <b>C#</b> and <b>Unity</b>  to create my own small universes.
+- 💬 Ask me about <b>anything</b> you can think of. I might know, might not. Still, we can search for an answer. I am always interested in learning!
 - ⚔ <b>Collaborations</b> and <b>team projects</b> are always welcome!
 
 ### Contact me at:
@@ -13,6 +13,7 @@
 [<img align="left" alt="Stratis-Dermanoutsos | itch" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.5.0/icons/itch-dot-io.svg" />][itch]
 [<img align="left" alt="Stratis-Dermanoutsos | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="Stratis-Dermanoutsos | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+[<img align="left" alt="Stratis-Dermanoutsos | Discord" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.5.0/icons/discord.svg" />][discord]
 
 <br />
 
@@ -52,3 +53,4 @@ Pain#7884
 [itch]: https://infinite-pain.itch.io
 [twitter]: https://twitter.com/Infinite___Pain
 [instagram]: https://www.instagram.com/stratis_derm
+[discord]: https://www.discord.com/users/192691918000357376/
