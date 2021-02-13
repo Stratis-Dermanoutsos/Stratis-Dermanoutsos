@@ -23,7 +23,6 @@
 <img align="left" alt="Visual Studio" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.5.0/icons/visualstudio.svg" />
 <img align="left" alt="Unity" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.5.0/icons/unity.svg" />
 <img align="left" alt="GitHub" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.5.0/icons/github.svg" />
-<img align="left" alt="MySQL" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.5.0/icons/mysql.svg" />
 <img align="left" alt="Javascript" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.5.0/icons/javascript.svg" />
 <img align="left" alt="HTML" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.5.0/icons/html5.svg" />
 <img align="left" alt="CSS" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.5.0/icons/css3.svg" />
