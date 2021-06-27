@@ -37,7 +37,7 @@ I upload a lot of different stuff, like **Data Structures** 🎁, **Algorithms**
 You can find some of my projects below!
 
 <details>
-<summary> ***GitHub Stats:***</summary>
+<summary>GitHub Stats:</summary>
 
 ![Stratis-Dermanoutsos's GitHub Stats](https://github-readme-stats.stratis-dermanoutsos.vercel.app/api?username=Stratis-Dermanoutsos&show_icons=true&theme=dark&hide_border=true)
 
