@@ -53,16 +53,8 @@
 <br>
 <br>
 
-Welcome to my personal **GitHub** page!
-
-I upload a lot of different stuff, like **Data Structures** 🎁, **Algorithms** ✍, **Programming projects** 💻 and **Unity games** 🚩.
-
-You can find some of my projects below!
-
-<details>
-<summary>GitHub Stats:</summary>
+## Stats
 
 ![Stratis-Dermanoutsos's GitHub Stats](https://github-readme-stats.stratis-dermanoutsos.vercel.app/api?username=Stratis-Dermanoutsos&show_icons=true&theme=dark&hide_border=true)
 
 ![Stratis-Dermanoutsos's Top Languages](https://github-readme-stats.stratis-dermanoutsos.vercel.app/api/top-langs/?username=Stratis-Dermanoutsos&layout=compact&theme=dark&hide_border=true)
-</details>
