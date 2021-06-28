@@ -19,22 +19,33 @@
 
 [<img align="left" alt="instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />](https://www.instagram.com/stratis_derm)
 
-[<img align="left" alt="discord" src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" />](https://www.discord.com/users/192691918000357376/)
-
-<br><br>
+[<img align="left" alt="hackerrank" src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" />](https://www.hackerrank.com/stratis_dermano1)
 
 ## Languages and Tools
 
-<img align="left" alt="Csharp" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.5.0/icons/csharp.svg" />
-<img align="left" alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.5.0/icons/visualstudiocode.svg" />
-<img align="left" alt="Visual Studio" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.5.0/icons/visualstudio.svg" />
-<img align="left" alt="Unity" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.5.0/icons/unity.svg" />
-<img align="left" alt="GitHub" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.5.0/icons/github.svg" />
-<img align="left" alt="Javascript" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.5.0/icons/javascript.svg" />
-<img align="left" alt="HTML" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.5.0/icons/html5.svg" />
-<img align="left" alt="CSS" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.5.0/icons/css3.svg" />
+![csharp](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
 
-<br><br>
+![dotnet](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=dot-net&logoColor=white)
+
+![javascript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+
+![html](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+
+![css](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+
+![tailwindcss](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+
+![vscode](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
+
+![vs](https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white)
+
+![unity](https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white)
+
+![sqlite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
+
+![mysql](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
+
+![github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
 
 Welcome to my personal **GitHub** page!
 
