@@ -2,10 +2,9 @@
 
 - 🎓 Currently studying **Computer Science** at the **University of Piraeus, Greece**
 - 🚩 **Goal**: Have a peaceful life, making games and programs!
-- 🔭 I’m currently working on many different projects, exploring the capabilities of **C#** and other programming languages.
-- 🌱 I’m learning **C#** and **Unity**  to create my own small universes.
+- 🔭 I’m currently working on many different projects, focusing on mobile and web applications with **C#** and **JavaScript**.
 - 💬 Ask me about **anything** you can think of. I might know, might not. Still, we can search for an answer. I am always interested in learning!
-- ⚔ **Collaborations** and **team projects** are always welcome!
+- ⚔ **Collaborations** and **team project** invitations are always welcome!
 
 ## Connect with me
 
