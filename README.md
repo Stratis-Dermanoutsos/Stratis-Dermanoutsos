@@ -63,4 +63,4 @@
 
 ![Stratis-Dermanoutsos's GitHub Stats](https://github-readme-stats.stratis-dermanoutsos.vercel.app/api?username=Stratis-Dermanoutsos&show_icons=true&theme=dark&hide_border=true)
 
-![Stratis-Dermanoutsos's Top Languages](https://github-readme-stats.stratis-dermanoutsos.vercel.app/api/top-langs/?username=Stratis-Dermanoutsos&layout=compact&theme=dark&hide_border=true)
+![Stratis-Dermanoutsos's Top Languages](https://github-readme-stats.stratis-dermanoutsos.vercel.app/api/top-langs/?username=Stratis-Dermanoutsos&layout=compact&theme=dark&hide_border=true&hide=c%2B%2B)
