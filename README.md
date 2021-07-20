@@ -1,8 +1,8 @@
 # Welcome to my GitHub page
 
 - 🎓 Currently studying **Computer Science** at the **University of Piraeus, Greece**
-- 🚩 **Goal**: Have a peaceful life, making games and programs!
-- 🔭 I’m currently working on many different projects, focusing on mobile and web applications with **C#** and **JavaScript**.
+- 🚩 **Goal**: Become a Senior, well-balanced Full-Stack Web & Mobile Developer.
+- 🔭 I’m currently working on many different projects, focusing on mobile and web applications with **C#** and **React**.
 - 💬 Ask me about **anything** you can think of. I might know, might not. Still, we can search for an answer. I am always interested in learning!
 - ⚔ **Collaborations** and **team project** invitations are always welcome!
 
@@ -61,6 +61,6 @@
 
 ## Stats
 
-![Stratis-Dermanoutsos's GitHub Stats](https://github-readme-stats.stratis-dermanoutsos.vercel.app/api?username=Stratis-Dermanoutsos&show_icons=true&theme=dark&hide_border=true)
+![Stratis-Dermanoutsos's GitHub Stats](https://github-readme-stats.stratis-dermanoutsos.vercel.app/api?username=Stratis-Dermanoutsos&show_icons=true&theme=dark&hide_border=true&count_private=true)
 
-![Stratis-Dermanoutsos's Top Languages](https://github-readme-stats.stratis-dermanoutsos.vercel.app/api/top-langs/?username=Stratis-Dermanoutsos&layout=compact&theme=dark&hide_border=true&hide=c%2B%2B)
+![Stratis-Dermanoutsos's Top Languages](https://github-readme-stats.stratis-dermanoutsos.vercel.app/api/top-langs/?username=Stratis-Dermanoutsos&layout=compact&theme=dark&hide_border=true&hide=c%2B%2B&count_private=true)
