@@ -1,6 +1,6 @@
 # Welcome to my GitHub page
 
-- 🎓 Currently studying **Computer Science** at the **University of Piraeus**
+- 🎓 Currently studying **Computer Science** at the **University of Piraeus** in Greece.
 - 🚩 **Goal**: Become a Senior, well-balanced Full-Stack Web & Mobile Developer.
 - 🔭 I’m currently studying the art of Full-Stack development.
 - 💬 Always interested in learning. Ask me anything and we can search for an answer together.
@@ -32,8 +32,6 @@
 <img align="left" alt="csharp" src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" />
 
 <img align="left" alt="dotnet" src="https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=dot-net&logoColor=white" />
-
-<img align="left" alt="nuget" src="https://img.shields.io/badge/NuGet-004880?style=for-the-badge&logo=nuget&logoColor=white" />
 
 <img align="left" alt="xamarin" src="https://img.shields.io/badge/Xamarin-3498DB?style=for-the-badge&logo=xamarin&logoColor=white" />
 
