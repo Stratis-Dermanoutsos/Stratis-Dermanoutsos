@@ -104,6 +104,6 @@
 
 ## Stats
 
-![Stratis-Dermanoutsos's GitHub Stats](https://github-readme-stats.stratis-dermanoutsos.vercel.app/api?username=Stratis-Dermanoutsos&show_icons=true&theme=dracula&hide_border=true&count_private=true)
+[![Stratis' GitHub stats](https://github-readme-stats.vercel.app/api?username=Stratis-Dermanoutsos&show_icons=true&theme=dracula&hide_border=true&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 
-![Stratis-Dermanoutsos's Top Languages](https://github-readme-stats.stratis-dermanoutsos.vercel.app/api/top-langs/?username=Stratis-Dermanoutsos&layout=compact&theme=dracula&hide_border=true&hide=c%2B%2B&count_private=true)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Stratis-Dermanoutsos&layout=compact&theme=dracula&hide_border=true&hide=c%2B%2B&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
