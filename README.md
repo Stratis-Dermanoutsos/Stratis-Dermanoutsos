@@ -1,8 +1,7 @@
 # Welcome to my GitHub page
 
-- 🎓 Currently studying **Computer Science** at the **University of Piraeus** in Greece.
-- 🚩 **Goal**: Become a Senior, well-balanced Full-Stack Web & Mobile Developer.
-- 🔭 I’m currently studying the art of Full-Stack development.
+- 🎓 ***Student*** at the **University of Piraeus**, department of **Informatics**.
+- ⌨ ***Full Stack Web Developer*** at **MODUS**.
 - 💬 Always interested in learning. Ask me anything and we can search for an answer together.
 - ⚔ **Collaborations** and **team project** invitations are always welcome!
 
@@ -27,9 +26,11 @@
 
 ## Languages and Tools
 
-### C# and Tools
+### Backend / Software
 
 <img align="left" alt="csharp" src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" />
+
+<img align="left" alt="java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" />
 
 <img align="left" alt="dotnet" src="https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=dot-net&logoColor=white" />
 
@@ -48,6 +49,8 @@
 <img align="left" alt="javascript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
 
 <img align="left" alt="react" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+
+<img align="left" alt="sencha" src="https://img.shields.io/badge/Sencha-044059?style=for-the-badge&logo=sencha&logoColor=#95C93D" />
 
 <img align="left" alt="bootstrap" src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" />
 
@@ -102,6 +105,10 @@
 <img align="left" alt="manjaro" src="https://img.shields.io/badge/manjaro-35BF5C?style=for-the-badge&logo=manjaro&logoColor=white" />
 
 <img align="left" alt="vscode" src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" />
+
+<img align="left" alt="visualstudio" src="https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white" />
+
+<img align="left" alt="intellij" src="https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white" />
 
 <br>
 <br>
