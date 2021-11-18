@@ -7,7 +7,7 @@
 
 ## Connect with me
 
-[<img align="left" alt="linkedin" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/stratos-dermanoutsos-7b7b1920a/)
+[<img align="left" alt="linkedin" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/stratis-dermanoutsos-7b7b1920a/)
 
 [<img align="left" alt="stack-overflow" src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white" />](https://stackoverflow.com/users/13187980/stratis-dermanoutsos)
 
