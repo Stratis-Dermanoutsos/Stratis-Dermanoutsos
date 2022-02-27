@@ -11,7 +11,7 @@
 [![twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/stratis_derm)
 [![stack-overflow](https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/13187980/stratis-dermanoutsos)
 [![hackerrank](https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/stratis_dermano1)
-[![itch](https://img.shields.io/badge/Itch.io-FA5C5C?style=for-the-badge&logo=Itch.io&logoColor=white)](https://infinite-pain.itch.io)
+[![itch](https://img.shields.io/badge/Itch.io-FA5C5C?style=for-the-badge&logo=itchdotio&logoColor=white)](https://infinite-pain.itch.io)
 
 ## Favorite technologies
 
