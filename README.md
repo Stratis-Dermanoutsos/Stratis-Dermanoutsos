@@ -1,9 +1,13 @@
 # Stratis Dermanoutsos
 
-- 🎓 ***Student*** at the **University of Piraeus**, department of **Informatics**.
-- ⌨ ***Full-Stack Web Developer*** at **MODUS**.
-- 💬 Always interested in learning. Ask me anything and we can search for an answer together.
-- ⚔ **Collaborations** and **team project** invitations are always welcome!
+- ***Student*** at the **University of Piraeus**, department of **Informatics**.
+- ***Full-Stack Web Developer*** at **MODUS**.
+- **Open Source** ***enthusiast***. **Collaborations** and **team project** invitations are always welcome, too!
+- Always interested in learning. Ask me anything and we can search for an answer together.
+
+### Listening to
+
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=stratis11on&cover_image=true&theme=natemoo-re&bar_color=53b14f&bar_color_cover=false)](https://spotify-github-profile.vercel.app/api/view?uid=stratis11on&redirect=true)
 
 ## Connect with me
 
