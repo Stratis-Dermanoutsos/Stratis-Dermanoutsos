@@ -5,10 +5,6 @@
 - **Open Source** ***enthusiast***. **Collaborations** and **team project** invitations are always welcome, too!
 - Always interested in learning. Ask me anything and we can search for an answer together.
 
-### Listening to
-
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=stratis11on&cover_image=true&theme=natemoo-re&bar_color=53b14f&bar_color_cover=false)](https://spotify-github-profile.vercel.app/api/view?uid=stratis11on&redirect=true)
-
 ## Connect with me
 
 [![stack-overflow](https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/13187980/stratis-dermanoutsos)
