@@ -2,8 +2,15 @@
 
 - ***Student*** at the **University of Piraeus**, department of **Informatics**.
 - ***Full-Stack Web Developer*** at **MODUS**.
-- **Open Source** ***enthusiast***. **Collaborations** and **team project** invitations are always welcome, too!
-- Always interested in learning. Ask me anything and we can search for an answer together.
+- **Open Source** ***enthusiast***. List of contributions:
+  - Maintainer:
+    - [Stratis-Dermanoutsos/Money_CLI](https://github.com/Stratis-Dermanoutsos/Money_CLI)
+    - [Stratis-Dermanoutsos/cra-template-borest](https://github.com/Stratis-Dermanoutsos/cra-template-borest)
+    - ...for more, scroll to **Pinned** or visit my [**Repositories**](https://github.com/Stratis-Dermanoutsos?tab=repositories).
+  - Contributor:
+    - [DataStories-UniPi/miniDB](https://github.com/DataStories-UniPi/miniDB)
+    - [kpatronas/connect](https://github.com/kpatronas/connect)
+    - [...more here](https://github.com/stars/Stratis-Dermanoutsos/lists/is-contributing).
 
 ## Connect with me
 
@@ -21,10 +28,6 @@
 [![typescript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)](https://github.com/microsoft/TypeScript)
 [![dotnet](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=dotnet&logoColor=white)](https://github.com/dotnet)
 [![react](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)](https://github.com/facebook/react)
-[![redux](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white)](https://github.com/reduxjs/redux)
-[![bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)](https://github.com/twbs/bootstrap)
-[![macos](https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=apple&logoColor=white)](https://en.wikipedia.org/wiki/MacOS)
-[![vscode](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)](https://github.com/microsoft/vscode)
 
 ## Stats
 
