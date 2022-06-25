@@ -9,7 +9,6 @@
     - ...for more, scroll to **Pinned** or visit my [**Repositories**](https://github.com/Stratis-Dermanoutsos?tab=repositories).
   - Contributor:
     - [DataStories-UniPi/miniDB](https://github.com/DataStories-UniPi/miniDB)
-    - [kpatronas/connect](https://github.com/kpatronas/connect)
     - [...more here](https://github.com/stars/Stratis-Dermanoutsos/lists/is-contributing).
 
 ## Connect with me
