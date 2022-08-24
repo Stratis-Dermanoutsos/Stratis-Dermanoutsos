@@ -13,7 +13,9 @@
 
 ## Connect with me
 
-[![stack-overflow](https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/13187980/stratis-dermanoutsos)
+<a href="https://stackexchange.com/users/18133102"><img src="https://stackexchange.com/users/flair/18133102.png?theme=dark" width="208" height="58" alt="profile for Stratis Dermanoutsos on Stack Exchange, a network of free, community-driven Q&amp;A sites" title="profile for Stratis Dermanoutsos on Stack Exchange, a network of free, community-driven Q&amp;A sites"></a>
+
+<!-- [![stack-overflow](https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/13187980/stratis-dermanoutsos) -->
 [![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/stratis-dermanoutsos-7b7b1920a/)
 [![twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/stratis_derm)
 [![npm](https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white)](https://www.npmjs.com/~stratis_derm)
