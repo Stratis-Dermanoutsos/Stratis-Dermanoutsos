@@ -1,7 +1,7 @@
 # Stratis Dermanoutsos
 
+- ***Full-Stack Software Engineer*** at **MODUS AE**.
 - ***Student*** at the **University of Piraeus**, department of **Informatics**.
-- ***Full-Stack Web Developer*** at **MODUS**.
 - **Open Source** ***enthusiast***. List of contributions:
   - Maintainer:
     - [Stratis-Dermanoutsos/Money_CLI](https://github.com/Stratis-Dermanoutsos/Money_CLI)
