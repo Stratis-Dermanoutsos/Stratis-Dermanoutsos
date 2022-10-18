@@ -1,6 +1,7 @@
 # Stratis Dermanoutsos
 
 - ***Full-Stack Software Engineer*** at **MODUS AE**.
+- ***Coding Mentor***. I help people *start* or *get more advanced* in the field of **Software Engineering**.
 - ***Student*** at the **University of Piraeus**, department of **Informatics**.
 - **Open Source** ***enthusiast***. List of contributions:
   - Maintainer:
