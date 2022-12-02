@@ -3,7 +3,7 @@
 - ***Full-Stack Software Engineer*** at **MODUS AE**.
 - ***Coding Mentor***. I help people *start* or *get more advanced* in the field of **Software Engineering**.
 - ***Student*** at the **University of Piraeus**, department of **Informatics**.
-- ***Owner*** and only of [**Students Absence**](https://github.com/Students-Absences).
+- ***Owner*** of [**Students Absence**](https://github.com/Students-Absences).
 - **Open Source** ***enthusiast***. List of contributions:
   - Maintainer:
     - [Stratis-Dermanoutsos/Money_CLI](https://github.com/Stratis-Dermanoutsos/Money_CLI)
