@@ -34,6 +34,6 @@
 
 ## Stats
 
-[![Stratis' GitHub stats](https://github-readme-stats.vercel.app/api?username=Stratis-Dermanoutsos&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Stratis' GitHub stats](https://github-readme-stats-stratis-dermanoutsos.vercel.app/api?username=Stratis-Dermanoutsos&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Stratis-Dermanoutsos&layout=compact&theme=tokyonight&hide_border=true&hide=c%2B%2B&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats-stratis-dermanoutsos.vercel.app/api/top-langs/?username=Stratis-Dermanoutsos&layout=compact&theme=tokyonight&hide_border=true&hide=c%2B%2B&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
