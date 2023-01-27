@@ -7,6 +7,7 @@
 - **Open Source** ***enthusiast***. List of contributions:
   - Maintainer:
     - [Stratis-Dermanoutsos/Money_CLI](https://github.com/Stratis-Dermanoutsos/Money_CLI)
+    - [Stratis-Dermanoutsos/dotnet-template-webapi-full](https://github.com/Stratis-Dermanoutsos/dotnet-template-webapi-full)
     - [Stratis-Dermanoutsos/cra-template-borest](https://github.com/Stratis-Dermanoutsos/cra-template-borest)
     - ...for more, scroll to **Pinned** or visit my [**Repositories**](https://github.com/Stratis-Dermanoutsos?tab=repositories).
   - Contributor:
