@@ -1,9 +1,8 @@
 # Stratis Dermanoutsos
 
-- ***Full-Stack Software Engineer*** at **MODUS AE**.
-- ***Coding Mentor***. I help people *start* or *get more advanced* in the field of **Software Engineering**.
-- ***Student*** at the **University of Piraeus**, department of **Informatics**.
+- ***Full-Stack Software Engineer*** at [**MODUS AE**](https://modus.gr).
 - ***Owner*** of [**Students Absence**](https://github.com/Students-Absences).
+- ***Coding Mentor***. I help people *start* or *get more advanced* in the field of **Software Engineering**.
 - **Open Source** ***enthusiast***. List of contributions:
   - Maintainer:
     - [Stratis-Dermanoutsos/Money_CLI](https://github.com/Stratis-Dermanoutsos/Money_CLI)
@@ -13,6 +12,7 @@
   - Contributor:
     - [DataStories-UniPi/miniDB](https://github.com/DataStories-UniPi/miniDB)
     - [...more here](https://github.com/stars/Stratis-Dermanoutsos/lists/is-contributing).
+- ***Student*** at the **University of Piraeus**, department of **Informatics**.
 
 ## Connect with me
 
@@ -32,6 +32,7 @@
 [![typescript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)](https://github.com/microsoft/TypeScript)
 [![dotnet](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=dotnet&logoColor=white)](https://github.com/dotnet)
 [![react](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)](https://github.com/facebook/react)
+[![sencha](https://img.shields.io/badge/Sencha-044059?style=for-the-badge&logo=sencha&logoColor=#95C93D)](https://www.sencha.com)
 
 ## Stats
 
