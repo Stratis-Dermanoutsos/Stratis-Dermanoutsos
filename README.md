@@ -11,7 +11,7 @@
     - ...for more, scroll to **Pinned** or visit my [**Repositories**](https://github.com/Stratis-Dermanoutsos?tab=repositories).
   - Contributor:
     - [DataStories-UniPi/miniDB](https://github.com/DataStories-UniPi/miniDB)
-    - [...more here](https://github.com/stars/Stratis-Dermanoutsos/lists/is-contributing).
+    - [...more here](https://github.com/stars/Stratis-Dermanoutsos/lists/is-contributing)
   - Sponsor:
     - [Astro](https://github.com/withastro) (Feb 2023)
 - ***Student*** at the **University of Piraeus**, department of **Informatics**.
