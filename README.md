@@ -40,3 +40,5 @@
 
 | [![GitHub statistics](https://github-readme-stats-stratis-dermanoutsos.vercel.app/api?username=Stratis-Dermanoutsos&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)](https://github.com/Stratis-Dermanoutsos/github-readme-stats) | [![Top Languages](https://github-readme-stats-stratis-dermanoutsos.vercel.app/api/top-langs/?username=Stratis-Dermanoutsos&layout=compact&theme=tokyonight&hide_border=true&hide=c%2B%2B,ruby,markdown&count_private=true)](https://github.com/Stratis-Dermanoutsos/github-readme-stats) |
 | --- | --- |
+
+<img src="https://komarev.com/ghpvc/?username=Stratis-Dermanoutsos" width="0" height="0" />
