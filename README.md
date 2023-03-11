@@ -1,5 +1,7 @@
 # Stratis Dermanoutsos
 
+<!-- markdownlint-disable MD033 -->
+
 - ***Full-Stack Software Engineer*** at [**MODUS AE**](https://modus.gr).
 - ***Owner*** of [**Students Absence**](https://github.com/Students-Absences).
 - ***Coding Mentor***. I help people *start* or *get more advanced* in the field of **Software Engineering**.
