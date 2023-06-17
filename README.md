@@ -2,7 +2,7 @@
 
 <!-- markdownlint-disable MD033 -->
 
-- ***Full-Stack Software Developer*** at [**MODUS AE**](https://modus.gr).
+- ***Full-Stack Software Developer*** at [**MODUS SA**](https://modus.gr).
 - ***Owner*** of [**Students Absence**](https://github.com/Students-Absences).
 - ***Coding Mentor***. I help people *start* or *get more advanced* in the field of **Software Engineering**.
 - **Open Source** ***enthusiast***. List of contributions:
