@@ -2,9 +2,7 @@
 
 <!-- markdownlint-disable MD033 -->
 
-- ***Senior .NET Developer*** by profession.
-- ***Full-Stack Software Developer*** as a hobby.
-- ***Owner*** of [**Students Absence**](https://github.com/Students-Absences).
+- ***Senior Software Developer***
 - ***Coding Mentor***. I help people *start* or *get more advanced* in the field of **Software Development**.
 - **Open Source** ***enthusiast***. List of contributions:
   - Maintainer:
