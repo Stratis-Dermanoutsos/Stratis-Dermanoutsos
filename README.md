@@ -38,9 +38,4 @@
 [![tailwind](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)](https://tailwindcss.com)
 [![docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)](https://www.docker.com)
 
-## Stats
-
-| [![GitHub statistics](https://github-readme-stats-stratis-dermanoutsos.vercel.app/api?username=Stratis-Dermanoutsos&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)](https://github.com/Stratis-Dermanoutsos/github-readme-stats) | [![Top Languages](https://github-readme-stats-stratis-dermanoutsos.vercel.app/api/top-langs/?username=Stratis-Dermanoutsos&layout=compact&theme=tokyonight&hide_border=true&hide=c%2B%2B,ruby,markdown,scss,css,html&count_private=true)](https://github.com/Stratis-Dermanoutsos/github-readme-stats) |
-| --- | --- |
-
 <img src="https://komarev.com/ghpvc/?username=Stratis-Dermanoutsos" width="0" height="0" />
