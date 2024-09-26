@@ -6,7 +6,6 @@
 - ***Coding Mentor***. I help people *start* or *get more advanced* in the field of **Software Development**.
 - **Open Source** ***enthusiast***. List of contributions:
   - Maintainer:
-    - [LygomCo/html-class-sorter](https://github.com/LygomCo/html-class-sorter)
     - [Stratis-Dermanoutsos/Full-Stack-Notes](https://github.com/Stratis-Dermanoutsos/Full-Stack-Notes)
     - [Stratis-Dermanoutsos/Money_CLI](https://github.com/Stratis-Dermanoutsos/Money_CLI)
     - ...for more, scroll to **Pinned** or visit my [**Repositories**](https://github.com/Stratis-Dermanoutsos?tab=repositories).
