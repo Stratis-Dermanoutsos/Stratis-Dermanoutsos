@@ -14,7 +14,7 @@
     - ...for more, visit my [**starred list**](https://github.com/stars/Stratis-Dermanoutsos/lists/is-contributing).
   - Sponsor:
     - [Astro](https://github.com/withastro) (Feb 2023)
-- ***Student*** at the **University of Piraeus**, department of **Informatics**.
+- ***Graduated*** from the **University of Piraeus**, department of **Informatics**.
 
 ## Connect with me
 
