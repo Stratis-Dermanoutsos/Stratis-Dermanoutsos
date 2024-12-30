@@ -7,6 +7,7 @@
 - **Open Source** ***enthusiast***. List of contributions:
   - Maintainer:
     - [Stratis-Dermanoutsos/Full-Stack-Notes](https://github.com/Stratis-Dermanoutsos/Full-Stack-Notes)
+    - [Stratis-Dermanoutsos/react-iso-localization](https://github.com/Stratis-Dermanoutsos/react-iso-localization)
     - [Stratis-Dermanoutsos/Money_CLI](https://github.com/Stratis-Dermanoutsos/Money_CLI)
     - ...for more, scroll to **Pinned** or visit my [**Repositories**](https://github.com/Stratis-Dermanoutsos?tab=repositories).
   - Contributor:
