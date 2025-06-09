@@ -30,6 +30,8 @@
 [![hackerrank](https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/stratis_dermano1)
 [![itch](https://img.shields.io/badge/Itch.io-FA5C5C?style=for-the-badge&logo=itchdotio&logoColor=white)](https://stratis-derm.itch.io)
 
+Also, you can read my articles on [Medium@stratis.dermanoutsos](https://medium.com/@stratis.dermanoutsos).
+
 ## Favorite technologies
 
 [![csharp](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)](https://github.com/dotnet/csharplang)
