@@ -2,7 +2,7 @@
 
 <!-- markdownlint-disable MD033 -->
 
-- ***Co-Founder & CTO***
+- ***Co-Founder & CTO*** @ [Lygom](https://github.com/LygomCo)
 - ***Senior Software Engineer***
 - ***Coding Mentor***. I help people *start* or *get more advanced* in the field of **Software Development**.
 - **Open Source** ***enthusiast***. List of contributions:
