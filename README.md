@@ -7,6 +7,7 @@
 - ***Coding Mentor***. I help people *start* or *get more advanced* in the field of **Software Development**.
 - **Open Source** ***enthusiast***. List of contributions:
   - Maintainer:
+    - [Stratis-Dermanoutsos/MapperLite](https://github.com/Stratis-Dermanoutsos/MapperLite)
     - [Stratis-Dermanoutsos/Full-Stack-Notes](https://github.com/Stratis-Dermanoutsos/Full-Stack-Notes)
     - [Stratis-Dermanoutsos/react-iso-localization](https://github.com/Stratis-Dermanoutsos/react-iso-localization)
     - [Stratis-Dermanoutsos/Money_CLI](https://github.com/Stratis-Dermanoutsos/Money_CLI)
