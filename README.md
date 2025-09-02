@@ -5,6 +5,7 @@
 - ***Co-Founder*** & ***CTO*** @ [Lygom](https://www.linkedin.com/company/lygom)
 - ***Senior Software Engineer*** @ [PEOPLE Technology](https://www.linkedin.com/company/people-technology)
 - ***Tech consultant***. I help people and companies improve their infrastructure in the field of **Software Engineering**.
+- ***Wanna-be Author***. You can read my articles on <https://blog.stratisdermanoutsos.com/>.
 - **Open Source** ***enthusiast***. List of contributions:
   - Maintainer:
     - [Stratis-Dermanoutsos/MapperLite](https://github.com/Stratis-Dermanoutsos/MapperLite)
@@ -31,8 +32,6 @@
 [![hackerrank](https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/stratis_dermano1)
 [![itch](https://img.shields.io/badge/Itch.io-FA5C5C?style=for-the-badge&logo=itchdotio&logoColor=white)](https://stratis-derm.itch.io)
 
-Also, you can read my articles on [Medium@stratis.dermanoutsos](https://medium.com/@stratis.dermanoutsos).
-
 ## Favorite technologies
 
 [![csharp](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)](https://github.com/dotnet/csharplang)
@@ -43,4 +42,5 @@ Also, you can read my articles on [Medium@stratis.dermanoutsos](https://medium.c
 [![docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)](https://www.docker.com)
 
 <img src="https://komarev.com/ghpvc/?username=Stratis-Dermanoutsos" width="0" height="0" />
+
 
