@@ -5,7 +5,7 @@
 - ***Co-Founder*** & ***CTO*** @ [Lygom](https://www.linkedin.com/company/lygom)
 - ***Senior Software Engineer*** @ [PEOPLE Technology](https://www.linkedin.com/company/people-technology)
 - ***Tech consultant***. I help people and companies improve their infrastructure in the field of **Software Engineering**.
-- ***Wanna-be Author***. You can read my articles on <https://blog.stratisdermanoutsos.com/>.
+- ***Wanna-be Author*** @ <https://blog.stratisdermanoutsos.com>.
 - **Open Source** ***enthusiast***. List of contributions:
   - Maintainer:
     - [Stratis-Dermanoutsos/MapperLite](https://github.com/Stratis-Dermanoutsos/MapperLite)
@@ -42,5 +42,6 @@
 [![docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)](https://www.docker.com)
 
 <img src="https://komarev.com/ghpvc/?username=Stratis-Dermanoutsos" width="0" height="0" />
+
 
 
