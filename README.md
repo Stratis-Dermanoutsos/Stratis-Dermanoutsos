@@ -8,11 +8,7 @@
 - ***Wanna-be Author*** @ <https://blog.stratisdermanoutsos.com>.
 - **Open Source** ***enthusiast***. List of contributions:
   - Maintainer:
-    - [Stratis-Dermanoutsos/MapperLite](https://github.com/Stratis-Dermanoutsos/MapperLite)
-    - [Stratis-Dermanoutsos/RestExceptions](https://github.com/Stratis-Dermanoutsos/RestExceptions)
-    - [Stratis-Dermanoutsos/react-iso-localization](https://github.com/Stratis-Dermanoutsos/react-iso-localization)
-    - [Stratis-Dermanoutsos/Money_CLI](https://github.com/Stratis-Dermanoutsos/Money_CLI)
-    - ...for more, scroll to **Pinned** or visit my [**Repositories**](https://github.com/Stratis-Dermanoutsos?tab=repositories).
+    > Visit @Stratis-OSS to see my active projects. Any contribution is more than welcome!
   - Contributor:
     - [DataStories-UniPi/miniDB](https://github.com/DataStories-UniPi/miniDB)
     - ...for more, visit my [**starred list**](https://github.com/stars/Stratis-Dermanoutsos/lists/is-contributing).
@@ -42,6 +38,7 @@
 [![docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)](https://www.docker.com)
 
 <img src="https://komarev.com/ghpvc/?username=Stratis-Dermanoutsos" width="0" height="0" />
+
 
 
 
