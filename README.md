@@ -2,7 +2,7 @@
 
 <!-- markdownlint-disable MD033 -->
 
-- ***Senior Software Engineer*** @ [PEOPLE Technology](https://www.linkedin.com/company/people-technology)
+- ***Senior Software Engineer*** @ [PEOPLE Technology](https://people-t.com)
 - ***Tech consultant*** and ***Solutions Architect***. I help enterprises optimize their cloud-native infrastructure.
 - ***Wanna-be Author*** @ <https://blog.stratisdermanoutsos.com>.
 - **Open Source Enthusiast** & Advocate.
