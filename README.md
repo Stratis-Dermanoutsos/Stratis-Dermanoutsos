@@ -2,18 +2,13 @@
 
 <!-- markdownlint-disable MD033 -->
 
-- ***Entrepreneur***
 - ***Senior Software Engineer*** @ [PEOPLE Technology](https://www.linkedin.com/company/people-technology)
-- ***Tech consultant***. I help people and companies improve their infrastructure in the field of **Software Engineering**.
+- ***Tech consultant*** and ***Solutions Architect***. I help enterprises optimize their cloud-native infrastructure.
 - ***Wanna-be Author*** @ <https://blog.stratisdermanoutsos.com>.
-- **Open Source** ***enthusiast***. List of contributions:
-  - Maintainer:
-    > Visit [@Stratis-OSS](https://github.com/Stratis-OSS) to see my active projects. Any contribution is more than welcome!
-  - Contributor:
-    - [DataStories-UniPi/miniDB](https://github.com/DataStories-UniPi/miniDB)
-    - ...for more, visit my [**starred list**](https://github.com/stars/Stratis-Dermanoutsos/lists/is-contributing).
-  - Sponsor:
-    - [Astro](https://github.com/withastro) (Feb 2023)
+- **Open Source Enthusiast** & Advocate.
+  - **Maintainer:** Active projects hosted at [@Stratis-OSS](https://github.com/Stratis-OSS) (contributions welcome!).
+  - **Contributor:** [DataStories-UniPi/miniDB](https://github.com/DataStories-UniPi/miniDB) and others on my [contribution list](https://github.com/stars/Stratis-Dermanoutsos/lists/is-contributing).
+  - **Sponsor:** Financial supporter of [Astro](https://github.com/withastro) since Feb 2023.
 - ***Graduated*** from the **University of Piraeus**, department of **Informatics**.
 
 ## Connect with me
